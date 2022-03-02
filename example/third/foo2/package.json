@@ -1,0 +1,7 @@
+{
+  "name": "foo2",
+  "version": "1.0.0",
+  "dependencies": {
+    "foo1": "*"
+  }
+}

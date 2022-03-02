@@ -1,0 +1,9 @@
+{
+  "name": "test-glob-esm-graph",
+  "version": "1.0.0",
+  "dependencies": {
+    "foo2": "*",
+    "foo3": "*",
+    "foo4": "*"
+  }
+}
